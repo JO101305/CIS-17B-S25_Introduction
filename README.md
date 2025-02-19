@@ -1,3 +1,5 @@
-Juan Ortiz
-John O'Connor
-33477
+Name: Juan Ortiz
+
+Professor Name: John O'Connor
+
+Section Number: 33477
